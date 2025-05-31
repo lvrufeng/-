@@ -19,6 +19,7 @@
 - `CatBoost_trainning.py`：CatBoost模型训练脚本
 - `predict_crop.py`：命令行下的作物预测示例脚本
 - `logs/`：训练日志输出目录
+- `Crop_recommendation`: 训练数据
 
 ## 环境依赖
 
